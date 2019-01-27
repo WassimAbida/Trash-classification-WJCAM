@@ -1,0 +1,514 @@
+id_image,label_image
+0,city
+1,city
+2,city
+3,city
+4,city
+5,city
+6,city
+7,city
+8,city
+9,city
+10,city
+11,city
+12,city
+13,city
+14,city
+15,city
+16,city
+17,city
+18,city
+19,city
+20,city
+21,city
+22,city
+23,city
+24,city
+25,city
+26,city
+27,city
+28,city
+29,city
+30,city
+31,city
+32,city
+33,city
+34,city
+35,city
+36,city
+37,city
+38,city
+39,city
+40,city
+41,city
+42,city
+43,city
+44,city
+45,city
+46,city
+47,city
+48,city
+49,city
+50,city
+51,city
+52,city
+53,city
+54,city
+55,city
+56,city
+57,city
+58,city
+59,city
+60,city
+61,city
+62,city
+63,city
+64,city
+65,city
+66,city
+67,city
+68,city
+69,city
+70,city
+71,city
+72,city
+73,city
+74,city
+75,city
+76,city
+77,city
+78,city
+79,city
+80,city
+81,city
+82,city
+83,city
+84,city
+85,city
+86,city
+87,city
+88,city
+89,city
+90,city
+91,city
+92,city
+93,city
+94,city
+95,city
+96,city
+97,city
+98,city
+99,city
+100,city
+101,city
+102,city
+103,city
+104,city
+105,city
+106,city
+107,city
+108,city
+109,city
+110,city
+111,city
+112,city
+113,city
+114,city
+115,city
+116,city
+117,city
+118,city
+119,city
+120,city
+121,city
+122,city
+123,city
+124,city
+125,city
+126,city
+127,city
+128,city
+129,city
+130,city
+131,city
+132,city
+133,city
+134,city
+135,city
+136,city
+137,city
+138,city
+139,city
+140,city
+141,city
+142,domestique
+143,domestique
+144,domestique
+145,domestique
+146,domestique
+147,domestique
+148,domestique
+149,domestique
+150,domestique
+151,domestique
+152,domestique
+153,domestique
+154,domestique
+155,domestique
+156,domestique
+157,domestique
+158,domestique
+159,domestique
+160,domestique
+161,domestique
+162,domestique
+163,domestique
+164,domestique
+165,domestique
+166,domestique
+167,domestique
+168,domestique
+169,domestique
+170,domestique
+171,domestique
+172,domestique
+173,domestique
+174,domestique
+175,domestique
+176,domestique
+177,domestique
+178,domestique
+179,domestique
+180,domestique
+181,domestique
+182,domestique
+183,domestique
+184,domestique
+185,domestique
+186,domestique
+187,domestique
+188,domestique
+189,domestique
+190,domestique
+191,domestique
+192,domestique
+193,domestique
+194,domestique
+195,domestique
+196,domestique
+197,domestique
+198,domestique
+199,domestique
+200,domestique
+201,domestique
+202,domestique
+203,domestique
+204,domestique
+205,domestique
+206,domestique
+207,domestique
+208,domestique
+209,domestique
+210,domestique
+211,domestique
+212,domestique
+213,domestique
+214,domestique
+215,domestique
+216,domestique
+217,domestique
+218,forest
+219,forest
+220,forest
+221,forest
+222,forest
+223,forest
+224,forest
+225,forest
+226,forest
+227,forest
+228,forest
+229,forest
+230,forest
+231,forest
+232,forest
+233,forest
+234,forest
+235,forest
+236,forest
+237,forest
+238,forest
+239,forest
+240,forest
+241,forest
+242,forest
+243,forest
+244,forest
+245,forest
+246,forest
+247,forest
+248,forest
+249,forest
+250,forest
+251,forest
+252,forest
+253,forest
+254,forest
+255,forest
+256,forest
+257,forest
+258,forest
+259,forest
+260,forest
+261,forest
+262,forest
+263,forest
+264,forest
+265,forest
+266,forest
+267,forest
+268,forest
+269,forest
+270,forest
+271,forest
+272,forest
+273,forest
+274,forest
+275,forest
+276,forest
+277,forest
+278,forest
+279,forest
+280,forest
+281,forest
+282,forest
+283,forest
+284,forest
+285,forest
+286,forest
+287,forest
+288,forest
+289,forest
+290,forest
+291,forest
+292,forest
+293,forest
+294,forest
+295,forest
+296,forest
+297,forest
+298,forest
+299,forest
+300,forest
+301,forest
+302,forest
+303,forest
+304,forest
+305,forest
+306,forest
+307,forest
+308,forest
+309,forest
+310,forest
+311,forest
+312,forest
+313,forest
+314,forest
+315,forest
+316,forest
+317,forest
+318,forest
+319,forest
+320,forest
+321,forest
+322,forest
+323,forest
+324,forest
+325,forest
+326,forest
+327,forest
+328,forest
+329,forest
+330,forest
+331,forest
+332,forest
+333,forest
+334,forest
+335,forest
+336,forest
+337,forest
+338,forest
+339,forest
+340,forest
+341,forest
+342,forest
+343,forest
+344,forest
+345,medical
+346,medical
+347,medical
+348,medical
+349,medical
+350,medical
+351,medical
+352,medical
+353,medical
+354,medical
+355,medical
+356,medical
+357,medical
+358,medical
+359,medical
+360,medical
+361,medical
+362,medical
+363,medical
+364,medical
+365,medical
+366,medical
+367,medical
+368,medical
+369,medical
+370,medical
+371,non dechet
+372,non dechet
+373,non dechet
+374,non dechet
+375,non dechet
+376,non dechet
+377,non dechet
+378,non dechet
+379,non dechet
+380,non dechet
+381,non dechet
+382,non dechet
+383,non dechet
+384,non dechet
+385,non dechet
+386,non dechet
+387,non dechet
+388,non dechet
+389,non dechet
+390,non dechet
+391,non dechet
+392,non dechet
+393,non dechet
+394,non dechet
+395,non dechet
+396,non dechet
+397,non dechet
+398,non dechet
+399,non dechet
+400,non dechet
+401,non dechet
+402,non dechet
+403,non dechet
+404,non dechet
+405,non dechet
+406,non dechet
+407,non dechet
+408,non dechet
+409,non dechet
+410,non dechet
+411,non dechet
+412,non dechet
+413,non dechet
+414,non dechet
+415,non dechet
+416,non dechet
+417,non dechet
+418,non dechet
+419,non dechet
+420,non dechet
+421,non dechet
+422,non dechet
+423,non dechet
+424,non dechet
+425,non dechet
+426,non dechet
+427,non dechet
+428,non dechet
+429,non dechet
+430,non dechet
+431,non dechet
+432,non dechet
+433,non dechet
+434,non dechet
+435,non dechet
+436,non dechet
+437,non dechet
+438,non dechet
+439,non dechet
+440,non dechet
+441,non dechet
+442,non dechet
+443,non dechet
+444,non dechet
+445,non dechet
+446,non dechet
+447,non dechet
+448,non dechet
+449,non dechet
+450,non dechet
+451,non dechet
+452,non dechet
+453,non dechet
+454,non dechet
+455,non dechet
+456,non dechet
+457,non dechet
+458,non dechet
+459,non dechet
+460,non dechet
+461,non dechet
+462,non dechet
+463,non dechet
+464,non dechet
+465,non dechet
+466,non dechet
+467,non dechet
+468,non dechet
+469,non dechet
+470,non dechet
+471,non dechet
+472,non dechet
+473,non dechet
+474,non dechet
+475,non dechet
+476,non dechet
+477,non dechet
+478,non dechet
+479,non dechet
+480,non dechet
+481,non dechet
+482,non dechet
+483,non dechet
+484,non dechet
+485,non dechet
+486,non dechet
+487,non dechet
+488,non dechet
+489,non dechet
+490,non dechet
+491,non dechet
+492,non dechet
+493,non dechet
+494,non dechet
+495,non dechet
+496,non dechet
+497,non dechet
+498,non dechet
+499,non dechet
+500,non dechet
+501,non dechet
+502,non dechet
+503,non dechet
+504,non dechet
+505,non dechet
+506,non dechet
+507,non dechet
+508,non dechet
+509,non dechet
+510,non dechet
+511,non dechet
+512,non dechet
