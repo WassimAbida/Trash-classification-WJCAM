@@ -47,4 +47,4 @@ def get_test_data(path):
 
 
 def get_train_data(path):
-    return _read_data("train")
+    return _read_data("test")
