@@ -10,12 +10,12 @@ import cv2
 
 class ImageClassifier(object):
 
-    def __init__(self, batch_size=32, epochs=1, validation_split=0.2, dropout=0.3, input_shape_image=(128, 128)):
+    def __init__(self, batch_size=32, epochs=10, step_per_epoch=20, validation_split=0.2, dropout=0.3, input_shape_image=(128, 128)):
         
         
         self.batch_size = batch_size
         self.epochs = epochs
-        self.step_per_epoch = 20
+        self.step_per_epoch = step_per_epoch
         self.input_image_shape = input_shape_image
         self.input_shape = self.input_image_shape + (3,)
         self.dropout = dropout
@@ -53,7 +53,7 @@ class ImageClassifier(object):
             
         datagen = self.data_augmentation(X)
         
-        self.model.fit_generator(datagen.flow(X, Y, batch_size=self.batch_size), steps_per_epoch=self.step_per_epoch, epochs=self.epochs)
+        self.model.fit_generator(datagen.flow(X, Y, batch_size=self.batch_size), steps_per_epoch=self.step_per_epoch, epochs=self.epochs, verbose=0)
      
     def predict_proba(self, img_loader):
         nb = len(img_loader)

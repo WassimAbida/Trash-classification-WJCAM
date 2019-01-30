@@ -28,7 +28,7 @@ score_types = [
 
 def get_cv(folder_X, y):
     _, X = folder_X
-    cv = StratifiedShuffleSplit(n_splits=1, test_size=0.1, random_state=1)
+    cv = StratifiedShuffleSplit(n_splits=3, test_size=0.1, random_state=1)
     return cv.split(X, y)
 
 
