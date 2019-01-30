@@ -15,25 +15,25 @@ id_image,label_image
 526,city
 527,city
 528,city
-529,domestique
-530,domestique
-531,domestique
-532,domestique
-533,domestique
-534,domestique
-535,domestique
-536,domestique
-537,domestique
-538,domestique
-539,domestique
-540,domestique
-541,domestique
-542,domestique
-543,domestique
-544,domestique
-545,domestique
-546,domestique
-547,domestique
+529,domestic
+530,domestic
+531,domestic
+532,domestic
+533,domestic
+534,domestic
+535,domestic
+536,domestic
+537,domestic
+538,domestic
+539,domestic
+540,domestic
+541,domestic
+542,domestic
+543,domestic
+544,domestic
+545,domestic
+546,domestic
+547,domestic
 548,forest
 549,forest
 550,forest
@@ -71,22 +71,22 @@ id_image,label_image
 582,medical
 583,medical
 584,medical
-585,non dechet
-586,non dechet
-587,non dechet
-588,non dechet
-589,non dechet
-590,non dechet
-591,non dechet
-592,non dechet
-593,non dechet
-594,non dechet
-595,non dechet
-596,non dechet
-597,non dechet
-598,non dechet
-599,non dechet
-600,non dechet
-601,non dechet
-602,non dechet
-603,non dechet
+585,non garbage
+586,non garbage
+587,non garbage
+588,non garbage
+589,non garbage
+590,non garbage
+591,non garbage
+592,non garbage
+593,non garbage
+594,non garbage
+595,non garbage
+596,non garbage
+597,non garbage
+598,non garbage
+599,non garbage
+600,non garbage
+601,non garbage
+602,non garbage
+603,non garbage

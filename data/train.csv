@@ -141,82 +141,82 @@ id_image,label_image
 139,city
 140,city
 141,city
-142,domestique
-143,domestique
-144,domestique
-145,domestique
-146,domestique
-147,domestique
-148,domestique
-149,domestique
-150,domestique
-151,domestique
-152,domestique
-153,domestique
-154,domestique
-155,domestique
-156,domestique
-157,domestique
-158,domestique
-159,domestique
-160,domestique
-161,domestique
-162,domestique
-163,domestique
-164,domestique
-165,domestique
-166,domestique
-167,domestique
-168,domestique
-169,domestique
-170,domestique
-171,domestique
-172,domestique
-173,domestique
-174,domestique
-175,domestique
-176,domestique
-177,domestique
-178,domestique
-179,domestique
-180,domestique
-181,domestique
-182,domestique
-183,domestique
-184,domestique
-185,domestique
-186,domestique
-187,domestique
-188,domestique
-189,domestique
-190,domestique
-191,domestique
-192,domestique
-193,domestique
-194,domestique
-195,domestique
-196,domestique
-197,domestique
-198,domestique
-199,domestique
-200,domestique
-201,domestique
-202,domestique
-203,domestique
-204,domestique
-205,domestique
-206,domestique
-207,domestique
-208,domestique
-209,domestique
-210,domestique
-211,domestique
-212,domestique
-213,domestique
-214,domestique
-215,domestique
-216,domestique
-217,domestique
+142,domestic
+143,domestic
+144,domestic
+145,domestic
+146,domestic
+147,domestic
+148,domestic
+149,domestic
+150,domestic
+151,domestic
+152,domestic
+153,domestic
+154,domestic
+155,domestic
+156,domestic
+157,domestic
+158,domestic
+159,domestic
+160,domestic
+161,domestic
+162,domestic
+163,domestic
+164,domestic
+165,domestic
+166,domestic
+167,domestic
+168,domestic
+169,domestic
+170,domestic
+171,domestic
+172,domestic
+173,domestic
+174,domestic
+175,domestic
+176,domestic
+177,domestic
+178,domestic
+179,domestic
+180,domestic
+181,domestic
+182,domestic
+183,domestic
+184,domestic
+185,domestic
+186,domestic
+187,domestic
+188,domestic
+189,domestic
+190,domestic
+191,domestic
+192,domestic
+193,domestic
+194,domestic
+195,domestic
+196,domestic
+197,domestic
+198,domestic
+199,domestic
+200,domestic
+201,domestic
+202,domestic
+203,domestic
+204,domestic
+205,domestic
+206,domestic
+207,domestic
+208,domestic
+209,domestic
+210,domestic
+211,domestic
+212,domestic
+213,domestic
+214,domestic
+215,domestic
+216,domestic
+217,domestic
 218,forest
 219,forest
 220,forest
@@ -370,145 +370,145 @@ id_image,label_image
 368,medical
 369,medical
 370,medical
-371,non dechet
-372,non dechet
-373,non dechet
-374,non dechet
-375,non dechet
-376,non dechet
-377,non dechet
-378,non dechet
-379,non dechet
-380,non dechet
-381,non dechet
-382,non dechet
-383,non dechet
-384,non dechet
-385,non dechet
-386,non dechet
-387,non dechet
-388,non dechet
-389,non dechet
-390,non dechet
-391,non dechet
-392,non dechet
-393,non dechet
-394,non dechet
-395,non dechet
-396,non dechet
-397,non dechet
-398,non dechet
-399,non dechet
-400,non dechet
-401,non dechet
-402,non dechet
-403,non dechet
-404,non dechet
-405,non dechet
-406,non dechet
-407,non dechet
-408,non dechet
-409,non dechet
-410,non dechet
-411,non dechet
-412,non dechet
-413,non dechet
-414,non dechet
-415,non dechet
-416,non dechet
-417,non dechet
-418,non dechet
-419,non dechet
-420,non dechet
-421,non dechet
-422,non dechet
-423,non dechet
-424,non dechet
-425,non dechet
-426,non dechet
-427,non dechet
-428,non dechet
-429,non dechet
-430,non dechet
-431,non dechet
-432,non dechet
-433,non dechet
-434,non dechet
-435,non dechet
-436,non dechet
-437,non dechet
-438,non dechet
-439,non dechet
-440,non dechet
-441,non dechet
-442,non dechet
-443,non dechet
-444,non dechet
-445,non dechet
-446,non dechet
-447,non dechet
-448,non dechet
-449,non dechet
-450,non dechet
-451,non dechet
-452,non dechet
-453,non dechet
-454,non dechet
-455,non dechet
-456,non dechet
-457,non dechet
-458,non dechet
-459,non dechet
-460,non dechet
-461,non dechet
-462,non dechet
-463,non dechet
-464,non dechet
-465,non dechet
-466,non dechet
-467,non dechet
-468,non dechet
-469,non dechet
-470,non dechet
-471,non dechet
-472,non dechet
-473,non dechet
-474,non dechet
-475,non dechet
-476,non dechet
-477,non dechet
-478,non dechet
-479,non dechet
-480,non dechet
-481,non dechet
-482,non dechet
-483,non dechet
-484,non dechet
-485,non dechet
-486,non dechet
-487,non dechet
-488,non dechet
-489,non dechet
-490,non dechet
-491,non dechet
-492,non dechet
-493,non dechet
-494,non dechet
-495,non dechet
-496,non dechet
-497,non dechet
-498,non dechet
-499,non dechet
-500,non dechet
-501,non dechet
-502,non dechet
-503,non dechet
-504,non dechet
-505,non dechet
-506,non dechet
-507,non dechet
-508,non dechet
-509,non dechet
-510,non dechet
-511,non dechet
-512,non dechet
+371,non garbage
+372,non garbage
+373,non garbage
+374,non garbage
+375,non garbage
+376,non garbage
+377,non garbage
+378,non garbage
+379,non garbage
+380,non garbage
+381,non garbage
+382,non garbage
+383,non garbage
+384,non garbage
+385,non garbage
+386,non garbage
+387,non garbage
+388,non garbage
+389,non garbage
+390,non garbage
+391,non garbage
+392,non garbage
+393,non garbage
+394,non garbage
+395,non garbage
+396,non garbage
+397,non garbage
+398,non garbage
+399,non garbage
+400,non garbage
+401,non garbage
+402,non garbage
+403,non garbage
+404,non garbage
+405,non garbage
+406,non garbage
+407,non garbage
+408,non garbage
+409,non garbage
+410,non garbage
+411,non garbage
+412,non garbage
+413,non garbage
+414,non garbage
+415,non garbage
+416,non garbage
+417,non garbage
+418,non garbage
+419,non garbage
+420,non garbage
+421,non garbage
+422,non garbage
+423,non garbage
+424,non garbage
+425,non garbage
+426,non garbage
+427,non garbage
+428,non garbage
+429,non garbage
+430,non garbage
+431,non garbage
+432,non garbage
+433,non garbage
+434,non garbage
+435,non garbage
+436,non garbage
+437,non garbage
+438,non garbage
+439,non garbage
+440,non garbage
+441,non garbage
+442,non garbage
+443,non garbage
+444,non garbage
+445,non garbage
+446,non garbage
+447,non garbage
+448,non garbage
+449,non garbage
+450,non garbage
+451,non garbage
+452,non garbage
+453,non garbage
+454,non garbage
+455,non garbage
+456,non garbage
+457,non garbage
+458,non garbage
+459,non garbage
+460,non garbage
+461,non garbage
+462,non garbage
+463,non garbage
+464,non garbage
+465,non garbage
+466,non garbage
+467,non garbage
+468,non garbage
+469,non garbage
+470,non garbage
+471,non garbage
+472,non garbage
+473,non garbage
+474,non garbage
+475,non garbage
+476,non garbage
+477,non garbage
+478,non garbage
+479,non garbage
+480,non garbage
+481,non garbage
+482,non garbage
+483,non garbage
+484,non garbage
+485,non garbage
+486,non garbage
+487,non garbage
+488,non garbage
+489,non garbage
+490,non garbage
+491,non garbage
+492,non garbage
+493,non garbage
+494,non garbage
+495,non garbage
+496,non garbage
+497,non garbage
+498,non garbage
+499,non garbage
+500,non garbage
+501,non garbage
+502,non garbage
+503,non garbage
+504,non garbage
+505,non garbage
+506,non garbage
+507,non garbage
+508,non garbage
+509,non garbage
+510,non garbage
+511,non garbage
+512,non garbage
