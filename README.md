@@ -1,6 +1,6 @@
 # Trash-classification-WJCAM
 
-### Credits to : Wassim ABIDA - Manon CESAIRE - Alann CHERAL - Jasseur HADDED - Clément HARDY
+#### Credits to : Wassim ABIDA - Manon CESAIRE - Alann CHERAL - Jasseur HADDED - Clément HARDY
 
 Do you remember the popular sci-fi movie, WALL-E, where robot trash compactors where deployed on Earth to clean the planet after decades of mass consumerism facilitated by a megacorporation ? Even if it seems like an apocalyptic scenario, the movie brought to our notice the harsh environmental reality of today. With the production of almost 1.3 billion tons of waste every day, our interest is to find effective ways to manage our garbages otherwise we could end up in the same position one day. At the same time, policies aimed at empowering and educating people about environmental issues should be in place.
 
