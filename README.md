@@ -1,4 +1,4 @@
-# Trash-classification-WJCAM
+# Trash-classification
 
 #### Credits to : Wassim ABIDA - Manon CESAIRE - Alann CHERAL - Jasseur HADDED - Clément HARDY
 
