@@ -18,7 +18,7 @@ Seeing the time that rubbish take to be destroyed, we must act quickly because t
 Collect garbages becomes essential, we have to avoid mass consumerism and recover waste that can be.
 
 
-# Business Model
+## Business Model
 
 Imagine for a moment that environmental policies as discussed above have been set up and that one of the direct consequences of this would be a smartphone application accessible to all. From this application, the user can on a daily basis take pictures of situations in which there might be an illicit rubbish dump. Then, all of these pictures are collected and sent to a data team who is in charge to analyze them.
 
@@ -33,7 +33,7 @@ However, there are several constraints that must be respected :
   - to determine which type the garbages belong to. Indeed, for instance, medical garbages need appropriate ways to be collected and they can not be collected with daily waste.
   
 
-# Submission
+## Submission
 
 You have to test your submissions files before doing your submissions. In that goal, use ramp_test_submission command. Notice that this unit test run in the folder submissions/starting_kit. Before running the test, make sure you have done the following tasks:
 
