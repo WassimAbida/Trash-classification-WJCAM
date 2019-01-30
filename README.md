@@ -38,7 +38,7 @@ However, there are several constraints that must be respected :
 You have to test your submissions files before doing your submissions. In that goal, use ramp_test_submission command. Notice that this unit test run in the folder submissions/starting_kit. Before running the test, make sure you have done the following tasks :
 
   - install ramp-workflow. Go to [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow) for more help on the [RAMP](http:www.ramp.studio) environment.
-  - write the python file image_classifier.py and put it in the following folder `submissions/starting_kit`.
-  - download the data by excuting python download_data.py
+  - write the python file `image_classifier.py` and put it in the following folder `submissions/starting_kit`.
+  - download the data by excuting python `download_data.py`
   
 You have two possibilities to test your submissions, a complete test (train and test the model with cross validtion like the server or a quick test (just to make sure the submissions code are working). If the test run, print train and test erros on each fold of the cross validation you can then submit to ramp.
